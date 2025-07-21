@@ -4,7 +4,7 @@
 
 🌱 Passionate about combining **machine learning**, **artificial intelligence**, and **electronics** to build smart, impactful solutions.
 
-![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding Animation](https://giphy.com/gifs/motion-graphics-animated-gif-animation-KX5nwoDX97AtPvKBF6)
 
 ---
 
@@ -14,15 +14,4 @@
 
 ---
 
-### ⚡ GitHub Stats
 
-![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThilinaBandara&show_icons=true&theme=radical)
-
----
-
-<details>
-<summary>✨ Fun fact</summary>
-
-I love bridging hardware and AI — creating intelligent systems that learn and interact with the real world!
-
-</details>
