@@ -4,13 +4,6 @@
 
 🌱 Passionate about combining **machine learning**, **artificial intelligence**, and **electronics** to build smart, impactful solutions.
 
-🚀 Currently working on projects like:
-
-- ⚡ Smart Energy Automation & Integration Network 2025 (🏆 1st Runners-up – SLIoT 2025)
-- 🤖 Evora: Restaurant Service Robot for the Sri Lankan market
-
-🔭 Exploring real-time data processing, embedded AI, IOT, and intelligent automation systems.
-
 ---
 
 ### 📫 Connect with me:
